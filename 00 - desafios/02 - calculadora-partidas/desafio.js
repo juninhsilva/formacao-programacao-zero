@@ -23,4 +23,4 @@ function print(balance=0, level="Ferro"){
     return `O Herói tem de saldo de ** ${balance} ** está no nível de ** ${level} **`
 }
 
-matchesCalculator(36, 12);
+matchesCalculator(100, 12);
